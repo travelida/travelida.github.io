@@ -1,5 +1,5 @@
 body {
-  background-image: url('https://64.media.tumblr.com/b35a4fe435607aae894443a311942fb3/b8e9437ce928d9a0-78/s500x750/3383d069f7286d1ba1f49c0bf01c19d7d6979228.gifv');
+  background-image: url("https://64.media.tumblr.com/b35a4fe435607aae894443a311942fb3/b8e9437ce928d9a0-78/s500x750/3383d069f7286d1ba1f49c0bf01c19d7d6979228.gifv");
   width: 100%;
   background-size: cover;
 }
@@ -12,6 +12,14 @@ h1 {
   display: block;
 }
 h2 {
+  color: lightsalmon;
+  font-family: inconsolata;
+}
+h3 {
+  color: lightsalmon;
+  font-family: inconsolata;
+}
+h4 {
   color: lightsalmon;
   font-family: inconsolata;
 }
